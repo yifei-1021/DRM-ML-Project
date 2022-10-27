@@ -15,4 +15,4 @@ The spreadsheets for the Final Data are presents in both .xlsx and .csv formats
 The "Simulation" spreadsheets contains results from Aspen Simulations.
 The "trend.csv" file contains the number of past literature papers published on DRM
 
-# Please cite our article (as Keerthana et al, 2022) if any of the resources are used
+# Please cite our article Keerthana et al, 2022 "Impacts of Catalyst and Process Parameters on Ni-Catalyzed Methane Dry Reforming via Interpretable Machine Learning", if any of the resources are used
