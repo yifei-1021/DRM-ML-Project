@@ -18,10 +18,6 @@ The "trend.csv" file contains the number of past literature papers published on 
 # Use of resources
 Please cite our article as: 
 
-Keerthana Vellayappan, Yifei Yue, Kang Hui Lim, Keyu Cao, Ji Yang Tan, Shuwen Cheng, Tianchang Wang, Terry Z.H. Gani, Iftekhar A. Karimi, Sibudjing Kawi,
+Keerthana Vellayappan, Yifei Yue, Kang Hui Lim, Keyu Cao, Ji Yang Tan, Shuwen Cheng, Tianchang Wang, Terry Z.H. Gani, Iftekhar A. Karimi, Sibudjing Kawi.
 Impacts of Catalyst and Process Parameters on Ni-Catalyzed Methane Dry Reforming via Interpretable Machine Learning,
-Applied Catalysis B: Environmental,
-2023,
-122593,
-ISSN 0926-3373,
-https://doi.org/10.1016/j.apcatb.2023.122593.
+Applied Catalysis B: Environmental,2023,https://doi.org/10.1016/j.apcatb.2023.122593.
