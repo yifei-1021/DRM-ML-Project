@@ -18,6 +18,6 @@ The "trend.csv" file contains the number of past literature papers published on 
 # Use of resources
 Please cite our article as: 
 
-K. Vellayappan, Y. Yue, KH Lim, K. Cao, JY Tan, S. Cheng, T. Wang, TZH. Gani, IA Karimi, S. Kawi. <br>
+K. Vellayappan, Y. Yue, K.H. Lim, K. Cao, J.Y. Tan, S. Cheng, T. Wang, T.Z.H. Gani, I.A. Karimi, S. Kawi. <br>
 "Impacts of Catalyst and Process Parameters on Ni-Catalyzed Methane Dry Reforming via Interpretable Machine Learning",
 <i> Applied Catalysis B: Environmental </i>, <b>2023 </b> ,https://doi.org/10.1016/j.apcatb.2023.122593.
