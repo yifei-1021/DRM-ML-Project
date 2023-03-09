@@ -1,5 +1,5 @@
 # DRM-ML-Project
-This Repository contains the Juypter Notebooks and Spreadsheet developed for the article "Uncovering Structure-Activity Relationships for Ni-Catalyzed Dry Reforming of Methane via Interpretable Machine Learning"
+This Repository contains the Juypter Notebooks and Spreadsheet developed for the article "Impacts of Catalyst and Process Parameters on Ni-Catalyzed Methane Dry Reforming via Interpretable Machine Learning"
 
 # Notebooks for model interpretation
 The main notebooks used for machine learning models are "CatalysisML_Final_Syngas.ipynb" and "CatalysisML_Final_Conversion.ipynb".
